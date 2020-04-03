@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "site-request-client-side-solution",
+    "id": "a555718b-bc8f-4140-8646-c99df5c3abf4",
+    "version": "1.0.1.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/site-request.sppkg"
+  }
+}
